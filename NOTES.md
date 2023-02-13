@@ -1,6 +1,6 @@
 Improvements List
 
-- The ProductList component has been converted from class component to a functional component and named it as ArticleList.
+- The ProductList component has been converted from class component to a functional component and named it as ArticlesList.
 
 - The ArticleCard component was moved to a different functional component because it was inside the ProductList component which should be avoided. The component composision is always good with different files.
 
